@@ -21,7 +21,6 @@ D: 18 + 1/2" for baseboard on wall
 
 
 To do:
-add drawer bottoms
 cabinet door and drawer front styling
 more detailed cabinet door construction method
 cut list and exploded parts view
